@@ -1,0 +1,8 @@
+:root {
+  --color-primary: #D7530F;
+}
+
+html {
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+}
